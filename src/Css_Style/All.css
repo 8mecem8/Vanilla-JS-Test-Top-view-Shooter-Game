@@ -1,0 +1,23 @@
+@import url("./Canvas.css");
+@import url("./ScoreBoard/ScoreBoard.css");
+@import url("./MainMenu/MainMenu.css");
+
+
+
+
+@font-face {
+    font-family: dogica;
+    src: url('Fonts/dogica.woff');
+}
+
+@font-face {
+    font-family: dogicabold;
+    src: url('Fonts/dogicabold.woff');
+}
+
+
+
+/*  */
+html body{
+    overflow: hidden;
+}

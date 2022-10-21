@@ -1,0 +1,9 @@
+.scoreMain{
+    user-select: none;
+    position: fixed;
+    font-size: 1.5rem;
+    color: lightcyan;
+    margin: 1rem;
+    font-family: 'dogicabold', fantasy;
+
+}

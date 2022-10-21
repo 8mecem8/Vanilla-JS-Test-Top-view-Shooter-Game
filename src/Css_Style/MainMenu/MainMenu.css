@@ -1,0 +1,57 @@
+.mainMenu{
+    user-select: none;
+    color: lightcyan;
+    font-family: dogica;
+    font-size: 4rem;
+    position: fixed;
+    background-color: transparent;
+    display: grid;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+  
+    
+
+}
+
+
+.mainMenuContainer{
+    background-color: chartreuse;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    display: flex;
+    flex-direction: column;
+    padding: 3rem;
+    gap: 4rem;
+    
+    
+}
+
+
+
+
+.mMPoints{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap:1rem;
+}
+
+.mMPoints > span:nth-child(2){
+    font-size: 1.5rem !important;
+}
+
+.mMButtonCon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mMStartB{
+    font-size: 2rem;
+    font-family: dogica;
+}
