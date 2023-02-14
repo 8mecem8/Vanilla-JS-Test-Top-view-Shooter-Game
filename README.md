@@ -1,8 +1,8 @@
 # Vanilla-JS-Test-Top-view-Shooter-Game
 
-In this project I wanted to try something I have never done before So I coded a simple shooter game as web application
+In this project I wanted to try something I have never done before So I coded a simple shooter game as a web application
 
-Important parts of the project learning game loop logic , desinging a game structure with JS Classes and creating dynamic 2D graphics with Canvas API 
+Important parts of the project learning game loop logic , desinging a game structure with JS Classes(OOP Logic) and creating dynamic 2D graphics with Canvas API 
 
 
 # Languages and Tools
